@@ -12,3 +12,8 @@ https://phantom.com/tokens/solana/3M2e3bzTrWEGksbHwbubB2nAxCxZBHzo6KTSvY7spump
 CA: 3M2e3bzTrWEGksbHwbubB2nAxCxZBHzo6KTSvY7spump
 
 $iL IS ALSO AVAILABLE ON
+
+* BIRDEYE
+* JUPITER
+* PHOTON
+* RAYDIUM
