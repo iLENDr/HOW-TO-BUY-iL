@@ -14,5 +14,3 @@ CA: 3M2e3bzTrWEGksbHwbubB2nAxCxZBHzo6KTSvY7spump
 $iL IS ALSO AVAILABLE ON
 
 * JUPITER https://www.jup.ag/swap/SOL-3M2e3bzTrWEGksbHwbubB2nAxCxZBHzo6KTSvY7spump
-  
-* SOLANA TRACKER: https://www.solanatracker.io/swap?from=So11111111111111111111111111111111111111112&to=3M2e3bzTrWEGksbHwbubB2nAxCxZBHzo6KTSvY7spump
